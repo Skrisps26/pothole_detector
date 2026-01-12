@@ -35,3 +35,6 @@ pip install tensorflow numpy opencv-python
 python potdetector.py
 
 ```
+
+
+uwu
