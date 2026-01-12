@@ -6,6 +6,7 @@ Built for **edge deployment** on **Raspberry Pi 4B**, also works on a regular PC
 Made for Raspberry Pi 4B, use webcam or camera module with it.
 
 Can be used on other devices, even windows but why would you do that?
+
 ---
 
 ## 🔥 Key Features
