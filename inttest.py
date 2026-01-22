@@ -4,9 +4,9 @@ import cv2
 import numpy as np
 import tensorflow as tf
 
-MODEL_PATH = "best_int8.tflite"
-IMAGE_PATH = "./content/potholemany.jpg"  # any pothole image
-IMG_SIZE = 320
+MODEL_PATH = "best_int8_2.tflite"
+IMAGE_PATH = "./pothole.jpg"  # any pothole image
+IMG_SIZE = 256
 N_RUNS = 200
 N_WARMUP = 20
 
